@@ -1,4 +1,4 @@
-## Install Ruby using rbenv (Local and Remote)
+## Install Ruby using rbenv
 
 1. Ensure all the package dependencies are installed `$ sudo apt install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev dirmngr gnupg apt-transport-https ca-certificates libgdbm-dev autoconf bison`
 2. `$ git clone https://github.com/rbenv/rbenv.git ~/.rbenv` to install rbenv.
